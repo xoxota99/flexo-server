@@ -3,3 +3,9 @@
 Flexo is a 6DOF robot arm using stepper motors instead of (e.g.) servos. <br/>
 This project is the Web application and IK solver for Flexo. It includes a Node-based webapp, some python scripts, and various utilies for communicating with the flexo-controller (Arduino) over Serial / USB link.
 </td></tr></table>
+
+## See also:
+<ul>
+  <li><a href="https://github.com/xoxota99/flexo-docs">flexo-docs</a> - for documentation</li>
+  <li><a href="">flexo-controller</a> - for Arduino code</li></li>
+</ul>
