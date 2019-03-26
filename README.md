@@ -7,5 +7,5 @@ This project is the Web application and IK solver for Flexo. It includes a Node-
 ## See also:
 <ul>
   <li><a href="https://github.com/xoxota99/flexo-docs">flexo-docs</a> - for documentation</li>
-  <li><a href="">flexo-controller</a> - for Arduino code</li></li>
+  <li><a href="https://github.com/xoxota99/flexo-controller">flexo-controller</a> - for Arduino code</li></li>
 </ul>
